@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '395'
     url: http://www.gutenberg.org/2009/agents/395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15370#Bab-Ballads-and-Savoy-Songs
 gutenberg_issued: '2005-03-15'
 gutenberg_type: Text
 identifiers:
